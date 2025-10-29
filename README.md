@@ -1,4 +1,4 @@
-# ai_foundry_governance_observability
+# Azure AI Foundry Governance and Observability Tutorials
 Hands-on notebooks for learning Azure AI governance, safety, and observability patterns with Azure AI Foundry services.
 
 ## Repository Contents
