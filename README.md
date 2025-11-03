@@ -38,6 +38,14 @@ Hands-on notebooks for learning Azure AI governance, safety, and observability p
 - `APPLICATIONINSIGHTS_CONNECTION_STRING`
 - `OTLP_ENDPOINT`
 
+**Spin up a local AI Content Safety container for testing**
+1. Make sure Docker is running on your machine.
+2. Follow the instructions in the [Azure AI Content Safety Containers documentation](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/containers/container-overview) to download and run the container locally.
+3. Run the following command:
+`docker run --rm -it -p 5000:5000 --gpus all mcr.microsoft.com/azure-cognitive-services/contentsafety/text-analyze:latest Eula=accept Billing=<AI Content Safety Endpoint> 
+ApiKey=<AI Content Safety Key>`
+
+
 ## Additional Resources
 1. [Azure AI Foundry](https://ai.azure.com/)
 2. [Azure AI Content Safety Documentation](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/)
