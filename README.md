@@ -46,7 +46,7 @@ Hands-on notebooks for learning Azure AI governance, safety, and observability p
 ApiKey=<AI Content Safety Key>`
 
 
-## Additional Resources
+## Azure AI Content Safety Resources
 1. [Azure AI Foundry](https://ai.azure.com/)
 2. [Azure AI Content Safety Documentation](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/)
 3. [Azure AI Content Safety Containers](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/containers/container-overview)
@@ -54,3 +54,17 @@ ApiKey=<AI Content Safety Key>`
 5. [Azure AI Content Task Adherence API](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/keeping-agents-on-track-introducing-task-adherence-in-azure-ai-foundry/4458397)
 6. [Azure AI Content Safety Custom Categories](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/custom-categories?tabs=standard)
 7. [Azure AI Content Safety SDK for Python](https://azuresdkdocs.z19.web.core.windows.net/python/azure-ai-contentsafety/1.0.0/index.html)
+8. [Azure AI Content Safety Language Support](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/language-support)
+
+
+## Azure AI Content Understanding Resources
+1. [Azure AI Content Understanding Documentation](learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview)
+2. [Azure AI Content Understanding Repo](https://github.com/Azure-Samples/azure-ai-content-understanding-python)
+
+
+## Azure AI Evaluations
+1. [Azure AI Evaluations SDK](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/evaluation/azure-ai-evaluation)
+2. [Azure AI Evaluations Scenarios](https://github.com/Azure-Samples/azureai-samples/tree/main/scenarios/evaluate)
+3. [Azure AI Evaluations Documentation](https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/evaluate-generative-ai-app)
+4. [Role-based Access Control to Azure AI Foundry](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/rbac-azure-ai-foundry)
+

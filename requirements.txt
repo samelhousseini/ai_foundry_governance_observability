@@ -26,3 +26,8 @@ pydantic
 fastapi==0.115.0
 uvicorn[standard]==0.32.0
 
+
+# Azure AI Evaluation SDK with remote capabilities
+azure-ai-evaluation
+azure-ai-projects 
+
